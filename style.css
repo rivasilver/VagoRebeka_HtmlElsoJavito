@@ -8,5 +8,8 @@ ol{
     list-style-type: upper-roman;
 }
 body{
-    background-color: rebeccapurple;
+    background-color: rebeccapurple; color: rgb(252, 133, 152);
+}
+a{
+    color: violet;
 }
