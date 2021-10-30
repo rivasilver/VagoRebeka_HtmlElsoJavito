@@ -1,0 +1,12 @@
+.menu {
+    color:pink; text-decoration: none;
+}
+ul{
+    list-style-type: square;
+}
+ol{
+    list-style-type: upper-roman;
+}
+body{
+    background-color: rebeccapurple;
+}
